@@ -20,7 +20,7 @@ This project demonstrates an end-to-end ETL pipeline built on AWS using data fro
 
 5. **AWS Glue Data Catalog:** A centralized metadata repository that stores table definitions, schemas, and data locations, enabling seamless data discovery and query integration across AWS analytics services.
 
-6. **Amazon Athena:**A serverless interactive query service that allows you to analyze data directly in Amazon S3 using standard SQL, without managing any infrastructure.
+6. **Amazon Athena:** A serverless interactive query service that allows you to analyze data directly in Amazon S3 using standard SQL, without managing any infrastructure.
 
 ### Install packages 
 ```bash
